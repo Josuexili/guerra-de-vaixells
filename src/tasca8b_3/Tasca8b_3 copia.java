@@ -1,7 +1,7 @@
 package tasca8b_3;
 import java.util.Scanner;
 import java.util.Random;
-
+//Hola Josué com estàs
 public class Tasca8b_3 {
 
 	public static void main(String[] args) {
@@ -81,12 +81,9 @@ public class Tasca8b_3 {
                 } else {
                     System.out.println("Aigua!!");
                     tablero2[fila][columna] = 'A'; // falla
-           }
-        }
-			
-		}
-	
-
+           	}
+        	}	
 	}
+}
 
 
