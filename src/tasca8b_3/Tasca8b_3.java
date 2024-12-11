@@ -2,6 +2,7 @@ package tasca8b_3;
 import java.util.Scanner;
 import java.util.Random;
 //Hola Josué com estàs
+//aquest es el comentari de tasca2 branch
 public class Tasca8b_3 {
 
 	public static void main(String[] args) {
